@@ -76,7 +76,3 @@ Using the refined clusters, we categorized customers into **six distinct groups*
 🔹 **Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)**  
 🔹 **Jupyter Notebook for Data Analysis**  
 🔹 **K-Means Clustering for Segmentation**  
-
----
-
-## 📂 Project Structure  
